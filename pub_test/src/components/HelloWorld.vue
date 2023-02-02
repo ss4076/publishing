@@ -3,6 +3,7 @@
     <h1>{{ msg }}</h1>
     commit 1
     commit 2
+    develop 
   </div>
 </template>
 
