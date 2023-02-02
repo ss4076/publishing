@@ -39,7 +39,11 @@ export default {
   name: 'HelloWorld',
   props: {
     msg: String
+  },
+  created() {
+    // not thing to do
   }
+
 }
 </script>
 
