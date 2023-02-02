@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     commit 1
     commit 2
-    develop
+    developer
     <p>
       For an guide and recipes on how to configure / customize this project,<br>
       check out the
