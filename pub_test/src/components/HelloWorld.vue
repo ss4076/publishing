@@ -1,7 +1,8 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    commit
+    commit 1
+    commit 2
   </div>
 </template>
 
