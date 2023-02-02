@@ -42,8 +42,12 @@ export default {
   props: {
     msg: String
   },
+
   created() {
     // not thing to do
+  },
+  mounted() {
+
   }
 
 }
