@@ -4,6 +4,9 @@
     commit 1
     commit 2
     developer
+    commit 3
+    commit 4
+    qa_release2
     <p>
       For an guide and recipes on how to configure / customize this project,<br>
       check out the
@@ -30,7 +33,6 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
->>>>>>> hotfix_branch
   </div>
 </template>
 
@@ -40,8 +42,12 @@ export default {
   props: {
     msg: String
   },
+
   created() {
     // not thing to do
+  },
+  mounted() {
+
   }
 
 }
