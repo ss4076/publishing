@@ -4,6 +4,7 @@
     commit 1
     commit 2
     developer
+    commit 3
     <p>
       For an guide and recipes on how to configure / customize this project,<br>
       check out the
